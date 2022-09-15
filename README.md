@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2022
+> 🏆 24 Contributions in the Year 2022
  > 
 > 📦 191.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 5 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -80,5 +80,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Delitel-WEB/Delitel-WEB/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 21:32:55 UTC
+ Last Updated on 15/09/2022 18:53:14 UTC
 <!--END_SECTION:waka-->
