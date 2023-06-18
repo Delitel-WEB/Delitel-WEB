@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,6 +21,6 @@ Linux                    4 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 18/06/2023 16:26:55 UTC
+ Last Updated on 18/06/2023 19:13:37 UTC
 <!--END_SECTION:waka-->
 [![codewars](https://www.codewars.com/users/Delitel/badges/large)](https://www.codewars.com/users/Delitel)   
