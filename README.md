@@ -23,4 +23,3 @@ Linux                    7 hrs 17 mins       ███████████�
 
  Last Updated on 28/09/2023 01:12:29 UTC
 <!--END_SECTION:waka-->
-[![codewars](https://www.codewars.com/users/Delitel/badges/large)](https://www.codewars.com/users/Delitel)   
