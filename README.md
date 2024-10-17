@@ -7,15 +7,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2024 01:43:28 UTC
+ Last Updated on 17/10/2024 01:42:14 UTC
 <!--END_SECTION:waka-->
